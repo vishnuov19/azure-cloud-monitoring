@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environment and secrets
+.env
+*.env
+
+# Data files (do not commit real or sensitive data)
+data/
+logs/
+
+# Azure credentials (never commit these)
+*.pem
+*.key
+*.pfx
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
