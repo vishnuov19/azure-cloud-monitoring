@@ -305,7 +305,7 @@ MIT License - feel free to use this project as a portfolio reference or learning
 
 **Vishnu O V**  
 Junior Cloud Associate | Azure | Python  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/vishnuov19) | [LinkedIn](https://linkedin.com/in/vishnuov)
 
 ---
 
